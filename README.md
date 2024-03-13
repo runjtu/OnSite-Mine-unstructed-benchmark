@@ -2,9 +2,9 @@
 
 ## Preparation:
 
---python version>=3.9
+---python version>=3.9
 
---pip install onsite-mine in conda 
+---pip install onsite-mine in conda 
 
 ## Usage:
 
