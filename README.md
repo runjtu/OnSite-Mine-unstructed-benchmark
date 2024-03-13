@@ -10,11 +10,11 @@ pip install onsite-mine in conda
 
 add scenarios in inputs/
 
-  -intersection 
+    ---intersection 
   
-  -loading 
+    ---loading 
   
-  -unloading
+    ---unloading
   
 get traj in outputs/results.csv
 
