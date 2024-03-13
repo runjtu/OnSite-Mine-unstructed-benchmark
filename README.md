@@ -2,13 +2,13 @@
 
 ## Preparation:
 
--- python version>=3.9
+--python version>=3.9
 
--- pip install onsite-mine in conda 
+--pip install onsite-mine in conda 
 
 ## Usage:
 
-add scenarios(intersection/loading/unloading) in inputs/
+add scenarios (intersection/loading/unloading) in inputs/
   
 get traj in outputs/results.csv
 
