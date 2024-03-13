@@ -2,9 +2,11 @@
 
 ## Preparation:
 
-    python version>=3.9
+    conda create -n <env> python=3.9 # python version>=3.9
 
-    pip install onsite-mine in conda 
+    conda activate <env>
+
+    pip install onsite-mine # in conda 
 
 ## Usage:
 
