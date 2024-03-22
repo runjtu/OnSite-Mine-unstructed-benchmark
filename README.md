@@ -10,8 +10,14 @@
 
 ## Usage:
 
-add scenarios (intersection/loading/unloading) in inputs/
+Add scenarios (intersection/loading/unloading) in inputs/
   
-get traj in outputs/results.csv
+Get traj in outputs/results.csv
 
-generate gif with output figs
+Generate gif with output figs
+
+Platform ver of this repo is 0.1.5 maintaining at https://github.com/runjtu/onsite_mine
+
+Welcome to take part in the 2nd Onsite auto-driving algorithm competition 
+
+Visit https://www.onsite.com.cn/#/dist/unstructuredRoadTestTool for more information
