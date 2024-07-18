@@ -21,3 +21,5 @@ Platform ver of this repo is 0.1.5 maintaining at https://github.com/runjtu/onsi
 Welcome to take part in the 2nd Onsite auto-driving algorithm competition 
 
 Visit https://www.onsite.com.cn/#/dist/unstructuredRoadTestTool for more information
+
+![Alt Text](./results/intersection.gif)
