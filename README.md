@@ -22,4 +22,8 @@ Welcome to take part in the 2nd Onsite auto-driving algorithm competition
 
 Visit https://www.onsite.com.cn/#/dist/unstructuredRoadTestTool for more information
 
-![intersection](./results/intersection.gif)
+<img src="./results/intersection.gif" alt="intersection" style="width:50%; height:auto;">
+<img src="./results/loading.gif" alt="loading" style="width:50%; height:auto;">
+<img src="./results/unloading.gif" alt="unloading" style="width:50%; height:auto;">
+
+
