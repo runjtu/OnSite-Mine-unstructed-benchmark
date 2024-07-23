@@ -19,8 +19,8 @@ class MineTruckXG90G:
         # 道路边界碰撞检测框轮廓
         self.collision_l = 9.0
         self.collision_w = 4.0
-        self.collision_lrear = 6.5
-        self.collision_lhead = 2.5
+        self.collision_lrear = 2.5
+        self.collision_lhead = 6.5
 
 
 class MineTruckNTE200:
